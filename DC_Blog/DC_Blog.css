@@ -1,0 +1,21 @@
+#logo {
+    display: inline;
+}
+
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+    display: inline;
+}
+
+body {
+   padding-left: 20%;
+   padding-right: 20%;
+}
+
+#bottom {
+    list-style-type: none;
+}
