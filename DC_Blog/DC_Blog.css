@@ -19,11 +19,12 @@
 #date {
     text-align: center;
     color: gray;
+    margin: 0;
+    padding: 0;
 } 
 #twitter {
     margin: 0 auto;
-    text-align: center;
-    
+    text-align: center;    
 }
 button {
     background-color: dodgerblue;
