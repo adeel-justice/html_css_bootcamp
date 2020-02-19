@@ -1,21 +1,53 @@
 #logo {
     display: inline;
 }
-
 #navigation {
+    text-align: end;
+    color: gray
+}
+
+#navigation li {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    float: right;
-    display: inline;
+    width: 100px;
+    display: inline-block; 
 }
-
+#title {
+    text-align: center;
+}
+#date {
+    text-align: center;
+    color: gray;
+} 
+#twitter {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+button {
+    background-color: dodgerblue;
+}
 body {
+    padding-top: 3%;
    padding-left: 20%;
    padding-right: 20%;
 }
 
-#bottom {
+p {
+    color: grey;
+}
+
+#bottom li {
     list-style-type: none;
+    margin: 0;
+    float: left;
+    display: inline-block;
+    width: 100px;
+    padding-top: 2%;
+    color: grey;
+}
+
+#copyright {
+    text-align: center;
 }
